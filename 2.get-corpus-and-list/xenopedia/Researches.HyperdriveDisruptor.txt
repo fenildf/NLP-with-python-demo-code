@@ -1,0 +1,7 @@
+<index>Researches.HyperdriveDisruptor</index>
+<name>Hyperdrive Disruptor</name>
+<cname></cname>
+<type>Extraterrestrials</type>
+<ctype>天外来客</ctype>
+<desc></desc>
+<cdesc></cdesc>
